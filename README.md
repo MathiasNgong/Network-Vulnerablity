@@ -25,10 +25,11 @@ presence of network vulnerabilities. This is because deleting an articulation po
 disconnects the network.
 
 
-
 For instance, in Fig 1(a) vertex 3 is an articulation point. Edge (3,4) is a bridge edge. In Fig 
 1(b), vertices 3 and 5 are articulation points. Edges (3,5) and (4,5) are bridge edges.
 
+
+![Alt](/graph.png)
 
 
 Required:
