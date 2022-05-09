@@ -130,7 +130,6 @@ Articulation points: 3 5
 
 Bridge edges: (3, 5) (4, 5)
 
-4
 
 Test case: 3
 
